@@ -4,6 +4,9 @@ links:<br>
 https://docs.microsoft.com/pt-br/dotnet/framework/network-programming/asynchronous-server-socket-example
 <br>
 https://docs.microsoft.com/pt-br/dotnet/framework/network-programming/using-an-asynchronous-server-socket
+<br>
+Necessario usar o Hercules SETUP para simular o client e o servidor.<br>
+https://www.hw-group.com/software/hercules-setup-utility
 
 ## Client:
 
